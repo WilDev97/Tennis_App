@@ -1,0 +1,10 @@
+
+pinecone-io
+pandas
+discord
+openai
+openai
+numpy
+matplotlib
+scipy
+scikit-learn
