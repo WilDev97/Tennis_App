@@ -1,4 +1,4 @@
-import itertools
+impordt itertools
 import pinecone
 import pandas as pd
 import random
